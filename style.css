@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+
+}
+container{
+ width: 10px;
+ height: 20 px;
+ top: 50%;
+ left: 50%;
+}
+
+
+button{
+    width: 150px;
+    height: 35px;
+    margin-top: 50%;
+    margin-left: 50%;
+    background-color: rgb(197, 65, 65);
+    color: rgb(235, 209, 209);
+    border-radius: 30px;
+}
